@@ -1,4 +1,4 @@
-##### main.py
+##### main.py     7/3/2019 
 ##### last update 7/3/2019 
 
 from sqlite3 import * #Import the sql lib 
